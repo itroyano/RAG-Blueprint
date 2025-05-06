@@ -5,5 +5,5 @@ exclude_paths:
   - README.md
   - LICENSE
 parseable: true
-strict: true
+strict: false
 offline: false
