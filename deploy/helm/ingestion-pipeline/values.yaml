@@ -6,7 +6,7 @@ embedding_model: all-MiniLM-L6-v2
 name: "demo-rag-vector-db"
 # version of the knowledgebase
 version: "1.0"
-
+# just a comment
 S3:
   access_key_id: access_key_id
   secret_access_key: secret_access_key
