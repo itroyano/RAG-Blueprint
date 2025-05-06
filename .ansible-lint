@@ -8,6 +8,7 @@ skip_list:
   - yaml[indentation]
   - yaml[empty-lines]
   - yaml[new-line-at-end-of-file]
+  - yaml[line-length]
 parseable: true
 strict: true
 offline: true
