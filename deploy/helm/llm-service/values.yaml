@@ -3,7 +3,7 @@ servingRuntime:
   knativeTimeout: 60m
   env:
   - name: HOME
-    value: /vllm
+      value: /vllm
   - name: HF_TOKEN
     valueFrom:
       secretKeyRef:
